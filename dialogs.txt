@@ -1,0 +1,25 @@
+How many hostels are available for girls at IIITD?	There is one girls hostels available for girls at IIITD.
+What is the name of lab number 304?	RF and applied Electromagnetics Lab
+Tell me a joke.	Why don't scientists trust atoms? Because they make up everything!
+What is IIITD?	Indraprastha Institute of Information Technology, Delhi
+How many hostels are there at IIITD?	At present, there are four hostels at IIITD, three for boys with 508 & 454 & 454 beds, and one for girls with 404 beds.
+How many lecture halls does IIITD have?	IIITD has a total of 25 lecture halls of varying sizes.
+What amenities are provided in the hostel rooms at IIITD?	The hostel rooms at IIITD are provided with night-time air conditioning in summers, heating in winters, and high-speed Internet connectivity.
+How many hostels are there at IIITD, and what are their capacities?	At present, there are four hostels at IIITD, three for boys with 508 & 454 & 454 beds, and one for girls with 404 beds.
+What are the types of rooms available in the hostels at IIITD?	The hostels at IIITD offer single and double occupancy rooms, all of which are air-conditioned.
+Are students free to move around the IIITD campus at all times?	Yes, all hostel students at IIITD are completely free to move around the campus at all times.
+How many boys hostel are there at IIITD?	There are three hostels available for boys at IIITD.
+How many boys' hostels are there at IIITD?	There are three boys' hostels at IIITD. One is old boys hostel and two is new boys hostel.
+What is the main focus of the Shannon Lab at IIITD?	The main focus of the Shannon Lab at IIITD is to manage teaching programs and facilitate research in areas related to signal processing and wireless communication.
+How many hostels are available for girls at IIITD?	There is one girls hostels available for girls at IIITD.
+What type of sports facilities are available at IIITD?	IIITD offers a multi-purpose sports field, two tennis courts, a football ground, a basketball court, and a volleyball field with lighting facilities.
+What facilities are available in the gym at IIITD?	The gym at IIITD offers facilities like treadmills, cross-trainers, recumbent bikes, an abdominal machine, dumbbells, and gym trainers are available during morning sessions.
+Where are ECE Labs located at IIITD	ECE Labs are located at 3rd floor of the lecture hall complex
+Tell me about IIITD infrastructure	IIITD has a huge LECTURE HALL COMPLEX also known as the LHC , It has 4 hostels , 3 for boys and 1 for girls . Among the boys hostel , there are 2 new boys hostel called H1 AND H2 and 1 old boys hostel. IIITD also has a huge Research and Development Department. It has a full 24/7 AC library . It has a lot of sports facilities with a sports complex comprising of a lot of sports. It also has an old academic building where there are smaller classrooms for smaller classes.
+Food facilities in IIITD	There is a 24/7 canteen in IIITD in the student recreations centre . There is also a cafe on the ground floor of the Old Academic building called BrewBakes
+Mess facilities in IIITD	There are 2 floors of the students recreation centre , which comprise of the mess
+What is the main focus of the Basic Electronics Lab (BE Lab) at IIITD?	The Basic Electronics Lab (BE Lab) at IIITD focuses on the concepts and implementation of basic circuits designing and serves as one of the teaching labs and facilitates course projects.
+What is the objective of the Shannon Lab at IIITD?	The objective of the Shannon Lab at IIITD is to manage teaching programs which include experiments and project assignments related to course work, and to involve research scholars, interns, and students in areas related to signal processing and wireless communication.
+'When was IIITD established?'	IIITD was established by the Delhi Act, 2007.
+What is the purpose of the Digital Circuits Lab (DC Lab) at IIITD?	The Digital Circuits Lab (DC Lab) at IIITD is dedicated to the concepts and implementation of basic circuits designing and serves as one of the teaching labs and facilitates course projects.
+How many ECE Labs are there	There are 5 labs? Including lab 304 ( rf and electromagnetic lab) , shannon lab and basic electronics labs
